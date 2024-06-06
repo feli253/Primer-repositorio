@@ -1,5 +1,7 @@
 <?php
 
-echo "hola mundo";
+$total = (9 < 2) ? "entra al si" : "Entro al no" ;
+
+echo $total;
 
 ?>
